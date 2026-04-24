@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي ناداك في الليل
+> روحي غريبة وأنت الدليل
+> نور في عيني دمع يسيل
+> كيف أنسى وهذا الحب أصيل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
