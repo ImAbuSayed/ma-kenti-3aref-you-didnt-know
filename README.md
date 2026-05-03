@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Ma Kenti 3aref – You Didn't Know |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 25, 2026 |
+| Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma-kenti-3aref-you-didnt-know/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
